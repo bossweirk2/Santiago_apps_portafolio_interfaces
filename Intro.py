@@ -19,7 +19,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
  
  st.subheader("Conversión de texto a voz")
- image = Image.open('txt_to_audio2.png')
+ image = Image.open('txt_to_audio2.jpg')
  st.image(image, width=190)
  st.write("En la siguiente enlace usaremos una de las aplicaciones de Inteligencia Artificial") 
  url = "https://textoaaudio-ksqsu7ja4kwyxiwmtv9frs.streamlit.app/"
