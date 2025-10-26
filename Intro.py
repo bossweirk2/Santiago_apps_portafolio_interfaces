@@ -57,7 +57,7 @@ st.divider()
 
 
 apps = [
-    (" Introducción", "Presentación general del portafolio.", "Imagen (1).jpeg", "https://introduccion.streamlit.app/"),
+    (" Introducción", "Presentación general del portafolio.", "Imagen (1).jpeg", "https://claseintroduccion-lzpk48ufa3nmswvy5ppknn.streamlit.app/"),
     (" Introducción 2", "Segunda práctica introductoria.", "Imagen (2).jpeg", "https://claseintroduccion2j.streamlit.app/"),
     (" Voz a Texto", "Convierte voz en texto (traductor).", "Imagen (3).jpeg", "https://traductorinterfaces-l.streamlit.app/"),
     (" OCR", "Reconocimiento óptico de caracteres (leer texto en imágenes).", "Imagen (4).jpeg", "https://ocr-audio-kj.streamlit.app/"),
