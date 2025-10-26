@@ -44,20 +44,18 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# --- 🐱 Título principal ---
+
 st.markdown('<div class="title">Portafolio de aplicaciones interfaces multimodales</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle"> Santiago Andres Velasquez Cuesta</div>', unsafe_allow_html=True)
 
-# --- 📚 Sidebar ---
+
 with st.sidebar:
     st.subheader("2Portafolio")
-    st.write("""
-    Portafolio de los ejercicios desarrollados en clase.
-    """)
+    st.write("""Portafolio de los ejercicios desarrollados en clase.""")
 
 st.divider()
 
-# --- 🧠 Lista de aplicaciones con imágenes del 1 al 15 ---
+
 apps = [
     (" Introducción", "Presentación general del portafolio.", "Imagen (1).jpeg", "https://introduccion.streamlit.app/"),
     (" Introducción 2", "Segunda práctica introductoria.", "Imagen (2).jpeg", "https://claseintroduccion2j.streamlit.app/"),
@@ -76,7 +74,7 @@ apps = [
     (" Control MQTT (Voz)", "Control de dispositivos mediante comandos de voz.", "Imagen (15).jpeg", "https://ctrlvoice3.streamlit.app/")
 ]
 
-# --- 🎨 Diseño con columnas ---
+
 for i in range(0, len(apps), 3):
     cols = st.columns(3)
     for j, col in enumerate(cols):
@@ -88,11 +86,10 @@ for i in range(0, len(apps), 3):
                 st.write(desc)
                 if link:
                     st.markdown(
-                        f'<a href="{link}" target="_blank"><button class="css-1q8dd3e edgvbvh1">💜 Ir a la aplicación</button></a>',
+                        f'<a href="{link}" target="_blank"><button class="css-1q8dd3e edgvbvh1">Ir a la aplicación</button></a>',
                         unsafe_allow_html=True
                     )
                 st.divider()
 
-# --- 🎉 Final ---
-st.balloons()
-st.success("¡Fin del portafolio! 🌟")
+st.snow()
+st.success("¡Fin!")
