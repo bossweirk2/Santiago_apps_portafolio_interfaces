@@ -50,7 +50,7 @@ st.markdown('<div class="subtitle"> Santiago Andres Velasquez Cuesta</div>', uns
 
 
 with st.sidebar:
-    st.subheader("2Portafolio")
+    st.subheader("Portafolio")
     st.write("""Portafolio de los ejercicios desarrollados en clase.""")
 
 st.divider()
