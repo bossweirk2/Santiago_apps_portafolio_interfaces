@@ -60,7 +60,7 @@ apps = [
     (" Introducción", "Presentación general del portafolio.", "Imagen (1).jpeg", "https://claseintroduccion-lzpk48ufa3nmswvy5ppknn.streamlit.app/"),
     (" Introducción 2", "Segunda práctica introductoria.", "Imagen (2).jpeg", "https://textoaaudio-ksqsu7ja4kwyxiwmtv9frs.streamlit.app/"),
     (" Voz a Texto", "Convierte voz en texto (traductor).", "Imagen (3).jpeg", "https://traductor-t5wfuhrgaddbkaqjfg3tpv.streamlit.app/"),
-    (" OCR", "Reconocimiento óptico de caracteres (leer texto en imágenes).", "Imagen (4).jpeg", "https://ocr-audio-kj.streamlit.app/"),
+    (" OCR", "Reconocimiento óptico de caracteres (leer texto en imágenes).", "Imagen (4).jpeg", "https://ocr-audio-5z5n3hwp89ziz7cs4gavjv.streamlit.app/"),
     (" Análisis de Sentimiento", "Detecta emociones en texto.", "Imagen (5).jpeg", "https://bxevt8gne5jp7whkvp9cw8.streamlit.app/"),
     (" Análisis de Texto (Inglés)", "Identifica temas y estructura gramatical.", "Imagen (6).jpeg", "https://tdfesp1-aulmkzfpydhreyfy5vgtua.streamlit.app/"),
     (" Análisis de Texto (Español)", "Procesamiento de lenguaje natural.", "Imagen (7).jpeg", "https://x7uhxksclxqrup8a4fgnhe.streamlit.app/"),
