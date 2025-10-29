@@ -71,7 +71,7 @@ apps = [
     (" Interfaz Táctil", "Tablero interactivo personalizado.", "Imagen (12).jpeg","https://drawrecog1-cwodtyatcw2axqljffyyft.streamlit.app/"),
     (" Generador de Historias", "Crea historias con inteligencia artificial.", "Imagen (13).jpeg", "https://generator-fg5hxkyydl8bmkwfspla5r.streamlit.app/"),
     (" Control MQTT (Botones)", "Control de dispositivos mediante MQTT y botones.", "Imagen (14).jpeg", "https://enviar-controlcmqtt-lqvmmmxvblujannz6ehoxp.streamlit.app/"),
-    (" Control MQTT (Voz)", "Control de dispositivos mediante comandos de voz.", "Imagen (15).jpeg", "https://ctrlvoice3.streamlit.app/")
+    (" Control MQTT (Voz)", "Control de dispositivos mediante comandos de voz.", "Imagen (15).jpeg", "https://ctrlvoice-mjhncmrsnzxx4t9t47ajag.streamlit.app/")
 ]
 
 
