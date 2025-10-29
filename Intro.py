@@ -68,7 +68,7 @@ apps = [
     (" Reconocimiento de Gestos", "Interpreta movimientos usando visión computacional.", "Imagen (9).jpeg", "https://santiagoappsportafoliointerfaces-93s54soeczzthjen6ksfut.streamlit.app/"),
     (" Chatbot (Sistema Experto)", "Sistema de conversación LLM.", "Imagen (10).jpeg", "https://chatpdfejercicio-xsurnthqpudczq5hadhgeg.streamlit.app/"),
     (" Interpretación de Imagen", "Análisis avanzado de imágenes con IA.", "Imagen (11).jpeg", "https://visionappejercicio-bxkvrfhimkcyxmqzpu7alq.streamlit.app/"),
-    (" Interfaz Táctil", "Tablero interactivo personalizado.", "Imagen (12).jpeg","https://drawrecog1.streamlit.app/"),
+    (" Interfaz Táctil", "Tablero interactivo personalizado.", "Imagen (12).jpeg","https://drawrecog1-cwodtyatcw2axqljffyyft.streamlit.app/"),
     (" Generador de Historias", "Crea historias con inteligencia artificial.", "Imagen (13).jpeg", "https://generador-de-historias.streamlit.app/"),
     (" Control MQTT (Botones)", "Control de dispositivos mediante MQTT y botones.", "Imagen (14).jpeg", "https://sendcmqtt2.streamlit.app/"),
     (" Control MQTT (Voz)", "Control de dispositivos mediante comandos de voz.", "Imagen (15).jpeg", "https://ctrlvoice3.streamlit.app/")
