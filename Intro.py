@@ -63,7 +63,7 @@ apps = [
     (" OCR", "Reconocimiento óptico de caracteres (leer texto en imágenes).", "Imagen (4).jpeg", "https://ocr-audio-5z5n3hwp89ziz7cs4gavjv.streamlit.app/"),
     (" Analizador emocional literario", "Detecta emociones en texto.", "Imagen (5).jpeg", "https://3zgkmllpsgccsqsjfsctmx.streamlit.app/"),
     (" Análisis de Texto (Inglés)", "Identificador de temas en ingles", "Imagen (6).jpeg", "https://jba8dqmvxmf5b4sgxqon8c.streamlit.app/"),
-    (" Análisis de Texto (Español)", "Procesamiento de lenguaje natural.", "Imagen (7).jpeg", "https://x7uhxksclxqrup8a4fgnhe.streamlit.app/"),
+    (" Análisis de Texto (Español)", "Procesamiento de lenguaje natural.", "Imagen (7).jpeg", "https://apme6avmmyqtjm4sc7pmqh.streamlit.app/"),
     (" Reconocimiento de Objetos", "Detección de objetos en imágenes (YOLO).", "Imagen (8).jpeg", "https://k4zkftbsu2yfj8vpqzvbkh.streamlit.app/"),
     (" Reconocimiento de Gestos", "Interpreta movimientos usando visión computacional.", "Imagen (9).jpeg", "https://reconocimientogestos-1.streamlit.app/"),
     (" Chatbot (Sistema Experto)", "Sistema de conversación LLM.", "Imagen (10).jpeg", "https://chatpdfejercicio.streamlit.app/"),
